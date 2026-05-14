@@ -20,7 +20,7 @@
 - HTML  
 - CSS  
 - JavaScript (Basics)
-
+- Java
 ### Frameworks & Libraries
 - Flask  
 - OpenCV  
