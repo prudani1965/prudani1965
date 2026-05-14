@@ -1,4 +1,4 @@
-# Hi there, I'm Purva Patel 👋
+# Hi, I'm Purva Patel 👋
 
 🎓 B.Tech Computer Science student passionate about technology, problem-solving, and data-driven decision making.  
 
